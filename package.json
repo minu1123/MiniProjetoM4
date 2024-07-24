@@ -1,7 +1,7 @@
 {
   "name": "miniprojeto-m4",
   "version": "1.0.0",
-  "description": "Descrição do projeto",
+  "description": "",
   "main": "index.js",
   "type": "module",
   "scripts": {
